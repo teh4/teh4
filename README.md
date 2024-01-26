@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm TAE HEON!
+I'm Backend Developer and..<br>
+Here are my spaces... <a href="kang-tae-heon@tistory.com">BLOG</a>  <a href="kang-tae-heon@tistory.com">RESUME</a> 🚀
 
 <!--
 **teh4/teh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
