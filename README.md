@@ -1,6 +1,6 @@
 ### Hi! I'm TAE HEON!
 I'm Backend Developer and..<br>
-Here are my spaces... <a href="https://kang-tae-heon.tistory.com">BLOG</a>  <a href="kang-tae-heon@tistory.com">RESUME</a> 🚀
+Here are my spaces... <a href="https://kang-tae-heon.tistory.com/category/NEWS">BLOG</a>  <a href="kang-tae-heon@tistory.com">RESUME</a> 🚀
 <br><br>
 
  [![teh4's github stats](https://github-readme-stats.vercel.app/api?username=teh4)](https://github.com/teh4/github-readme-stats)
