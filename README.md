@@ -5,7 +5,7 @@ I'm Backend Developer and..<br>
 Here are my spaces... <a href="https://kang-tae-heon.tistory.com">BLOG</a>  <a href="kang-tae-heon@tistory.com">RESUME</a> 🚀
 <br><br>
 
- [![#](https://github-readme-stats.vercel.app/api?username=teh4&hide=stars,issues&count_private=true&show_icons=true&&theme=holi)](https://github.com/teh4/github-readme-stats)
+ [![#](https://github-readme-stats.vercel.app/api?username=teh4&hide=stars,issues&hide_title=true&count_private=true&show_icons=true&theme=holi)](https://github.com/teh4/github-readme-stats)
 
 </div>
 
