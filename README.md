@@ -2,7 +2,7 @@
   
 ### Hi! I'm TAE HEON!
 I'm Backend Developer and..<br>
-Here are my spaces... <a href="https://kang-tae-heon.tistory.com">BLOG</a>  <a href="https://kang-tae-heon@tistory.com">PORTFOLIO</a> 🚀
+Here are my spaces... <a href="https://kang-tae-heon.tistory.com">BLOG</a>  <a href="https://kangtaeheon.notion.site/kangtaeheon/Kang-Tae-Heon-e451b442fe9a4d5cbb4f6fcf3464d5a8">PORTFOLIO</a> 🚀
 <br><br>
 
  [![#](https://github-readme-stats.vercel.app/api?username=teh4&hide=stars,issues&hide_title=true&count_private=true&show_icons=true&theme=holi)](https://github.com/teh4/github-readme-stats)
